@@ -1,0 +1,72 @@
+*{
+ 
+    text-align: center;
+   
+}
+.container-fluid{
+    background-color: #d0e0fd;
+}
+.title-routine{
+    color: ;
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.container-fluid{
+    text-align: center;
+}
+.table{
+
+   
+}
+.table-tag{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 3px solid black;
+}
+.thead
+
+.thead-tr{
+    padding: 10;
+}
+.thead-td{
+    border: 1px solid black;
+    padding: 10px;
+    color: black;
+    background-color: #6c9fff;
+    font-weight: ;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.tbody{
+    
+}
+.tbody-tr{
+    padding: 10px;
+    border: 1px solid black;
+}
+.tbody-td{
+    text-align: ;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: #d0e0fd;
+    color: black;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    transition: 0.1s;
+}
+
+
+/*HOVER*/
+
+.tbody-td:hover{
+    background-color: #649aff;
+    transition: 0.1s;
+    font-weight: ;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/*Md. Muhibbur Rahman / muhib2929@gmail.com / 01717109550 */
+.thead-td:hover{
+    background-color: #4385ff;
+}
